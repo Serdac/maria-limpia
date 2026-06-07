@@ -1,0 +1,11 @@
+{
+	"appId": "com.maria.ia",
+	"appName": "maria-ia-app",
+	"webDir": "dist",
+	"server": {
+		"androidScheme": "https"
+	},
+	"android": {
+		"minVersion": 26
+	}
+}

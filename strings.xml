@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">maria-ia-app</string>
+    <string name="title_activity_main">maria-ia-app</string>
+    <string name="package_name">com.maria.ia</string>
+    <string name="custom_url_scheme">com.maria.ia</string>
+</resources>
